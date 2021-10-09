@@ -6,7 +6,12 @@ public class Demo_Git {
 
 		
 		
-		System.out.println("Hello GITHUB");
+			int a=5;
+			int b=10;
+			int sum=0;
+			
+			sum=a+b;
+			System.out.println("sum=" +sum);
 		
 
 	}
