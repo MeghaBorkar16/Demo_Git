@@ -12,6 +12,7 @@ public class Demo_Git {
 			
 			sum=a+b;
 			System.out.println("sum=" +sum);
+		System.out.println("HELLO MAVEN");
 		
 
 	}
